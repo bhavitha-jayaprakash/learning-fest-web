@@ -1,0 +1,12 @@
+
+div{
+    background-color: aquamarine;
+    min-height: 300px;
+}
+div>h1{
+    color: white;
+    text-align: center;
+}
+div>p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

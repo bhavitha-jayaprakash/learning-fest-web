@@ -1,0 +1,13 @@
+.first{
+    margin: 10px;
+    border: solid red;
+    padding: 20px;
+    border-radius: 30px;
+
+}
+.second{
+    margin: 10px;
+    border: solid red;
+    padding: 20px;
+    border-radius: 70px 30px;
+}

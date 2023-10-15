@@ -1,0 +1,38 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.first{
+    min-height: fit-content;
+    display: flex;
+}
+.one{
+    padding: 20px;
+    width: 33%;
+}
+.two{
+    padding: 20px;
+    width: 33%;  
+}
+.three{
+    padding: 20px;
+    width: 33%;
+}
+.four{
+    text-align: center;
+}
+.second{
+    min-height: fit-content;
+    display: flex;
+}
+.five{
+    padding: 20px;
+    width: 33%;
+}
+.six{
+    padding: 20px;
+    width: 33%;
+}
+.seven{
+    padding: 20px;
+    width: 33%;
+}

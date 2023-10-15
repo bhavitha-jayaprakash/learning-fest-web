@@ -1,0 +1,11 @@
+.all{
+    max-width: fit-content;
+    max-height: fit-content;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.box{
+    margin: 20px;
+    padding: 10px;
+    border: solid 2px gray;    
+}
